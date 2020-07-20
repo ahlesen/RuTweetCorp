@@ -1,0 +1,16 @@
+scikit-learn
+spacy-udpipe
+pymorphy2
+torch>=1.2
+matplotlib
+ipymarkup
+lxml
+scipy
+pandas
+tqdm
+youtokentome
+seaborn
+ipykernel
+ipython
+pyconll
+
